@@ -3,15 +3,8 @@
   "theme": "ui",
   "version": "0.0.0",
   "description": "Plurpel, A Juicy Purple And Creamy UI Theme For Atom",
-  "keywords": [
-    "plurpel",
-    "Plurpel",
-    "plurpel-theme",
-    "Plurpel-theme",
-    "jhon"
-  ],
-  "repository": "https://github.com/JhonLikesFloppa/Plurpel-Atom-UI",
   "license": "MIT",
+  "repository": "https://github.com/JhonLikesFloppa/Plurpel-Atom-UI",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   }
