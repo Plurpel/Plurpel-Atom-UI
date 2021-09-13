@@ -1,14 +1,15 @@
 {
-  "name": "plurpel-ui",
+  "name": "PlurpelUI",
   "theme": "ui",
   "version": "0.0.0",
-  "description": "Plurpel, A Juicy Purple And Creamy UI Theme For Atom",
+  "description": "Plurpel, A Juicy Purple And Creamy UI Theme For Atom ",
   "keywords": [
     "plurpel",
     "Plurpel",
-    "plurpel-theme",
-    "Plurpel-theme",
-    "jhon"
+    "Dark",
+    "ui",
+    "Atom",
+    "atom"
   ],
   "license": "MIT",
   "repository": "https://github.com/JhonLikesFloppa/Plurpel-Atom-UI",
